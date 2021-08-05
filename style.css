@@ -1,0 +1,31 @@
+.Heading
+{
+    width: 100%;
+    text-align: center;
+}
+
+.Heading h3
+{
+display: inline;
+}
+
+.Heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#Start
+{
+    font-size: 25px;
+}
+
+#Status
+{
+    font-size: 25px;
+}
